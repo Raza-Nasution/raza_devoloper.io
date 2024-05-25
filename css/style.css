@@ -265,6 +265,7 @@ textarea {
           font-size: 2.4rem; } }
     .about__content-details-para {
       font-size: 1.8rem;
+      text-align: justify;
       color: grey;
       max-width: 60rem;
       line-height: 1.7;
@@ -313,6 +314,7 @@ textarea {
         .projects__row-content-title {
           font-size: 2.4rem; } }
     .projects__row-content-desc {
+      text-align: justify;
       font-size: 1.8rem;
       color: grey;
       max-width: 60rem;
